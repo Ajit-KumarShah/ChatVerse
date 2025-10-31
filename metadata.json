@@ -1,0 +1,7 @@
+{
+  "name": "ChatVerse",
+  "description": "A modern, WhatsApp-inspired chat application built with React and Tailwind CSS. It features a real-time messaging interface, an animated startup screen, and AI-powered smart replies using the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
